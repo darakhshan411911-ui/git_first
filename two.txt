@@ -1,1 +1,2 @@
-two -> changes made in second file of git repo
+two -> changes made in second file of git repo 
+now make changes in git hub directly
