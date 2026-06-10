@@ -1,2 +1,3 @@
 two -> changes made in second file of git repo 
 now make changes in git hub directly
+now making changes in github to see how actually push work.
