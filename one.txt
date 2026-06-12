@@ -1,1 +1,2 @@
 one -> first  file in git folder.
+now lets learn how fetch work
